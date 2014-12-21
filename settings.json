@@ -1,0 +1,11 @@
+{
+    "twitter_id": "MeteorFeed's Twitter",
+    "twitter_category": "Twitter",
+    "twitter_link": "https://twitter.com/MeteorFeed",
+    "twitter_refresh_interval": 5000,
+    "twitter_screen_name": "MeteorFeed",
+    "twitter_consumer_key": "wM8xHCv9acJARAEoS4GwVHJdZ",
+    "twitter_consumer_secret": "5HzUaWJeYv22fNt7EyrLiZeAZpgIqkcEV5wxHfqlEnMQ6kIcb5",
+    "twitter_access_token": "2937922632-b3RC2AIR4Mo1nArUQCktcP3Y9mMH8Ag1qZlPppy",
+    "twitter_access_token_secret": "bie7E8AFvv41ZvYHNMt1Kw7HIVMGZQMOneXOIs1xPIbFa"
+}
